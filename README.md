@@ -17,7 +17,6 @@ I'm a software developer passionate about open-source projects and web developme
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Iwamoto-247452&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iwamoto-247452&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
+<img src="https://streak-stats.demolab.com?user=Iwamoto-247452&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j" />
 
 
