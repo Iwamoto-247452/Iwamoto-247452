@@ -8,7 +8,7 @@ I'm a software developer passionate about open-source projects and web developme
 - **Frameworks**: WinForms, Unity
 - **Tools**: Visual Studio, GitHub
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 # 📊 GitHub Stats:
 <img src="https://streak-stats.demolab.com?user=Iwamoto-247452&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j" />
